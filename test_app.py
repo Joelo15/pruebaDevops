@@ -1,5 +1,5 @@
 import unittest
-import os
+
 from app import suma
 
 class TestApp(unittest.TestCase):
