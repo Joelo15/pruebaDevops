@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 EXPOSE 3000
 
-CMD ["python", "gitActions/app.py"]
+CMD ["python", "app.py"]
